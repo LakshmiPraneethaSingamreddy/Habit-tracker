@@ -52,7 +52,7 @@ habit-tracker-30-days/
 ## ▶️ How to Run the Project
 
 1. Clone the repository:
-   git clone https://github.com/your-username/habit-tracker-30-days.git
+   git clone https://github.com/your-username/habit-tracker.git
 2. Open the project folder:
    cd habit-tracker-30-days
 3. Open index.html in your browser:
