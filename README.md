@@ -33,6 +33,8 @@ habit-tracker-30-days/
 ├── index.html
 ├── style.css
 ├── script.js
+├── assets
+    ├──background.jpg
 └── README.md
 
 
@@ -49,12 +51,18 @@ habit-tracker-30-days/
 
 ---
 
+🌍 Hosting
+
+This project is hosted using GitHub Pages.
+To enable GitHub Pages:
+You can access the habit tracker at the url : https://lakshmipraneethasingamreddy.github.io/Habit-tracker/
+
 ## ▶️ How to Run the Project
 
 1. Clone the repository:
-   git clone https://github.com/your-username/habit-tracker.git
+   git clone https://github.com/LakshmiPraneethaSingamreddy/Habit-tracker.git
 2. Open the project folder:
-   cd habit-tracker-30-days
+   cd habit-tracker
 3. Open index.html in your browser:
    Double click the file, or
    Use Live Server (VS Code recommended)
